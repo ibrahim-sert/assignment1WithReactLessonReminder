@@ -1,0 +1,44 @@
+.lessoncard-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* width: 60vh; */
+    margin:10px auto;
+  
+}
+
+.card{
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    /* width: 60vh; */
+
+}
+.item{
+    width: auto;
+    
+}
+
+.card img{
+    width: 100px;
+    height: 100px;
+}
+
+.item p{
+    margin: .5rem;
+}
+
+.span{
+    color: tomato;
+}
+
+/* @media only screen and (max-width: 768px) {
+
+    .card{
+        display: flex;
+        justify-content: center;
+        width: 60vh;height: auto;
+        
+    }
+} */
+

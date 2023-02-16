@@ -1,0 +1,18 @@
+header{
+    background: rgb(26,217,182);
+background: linear-gradient(43deg, rgba(26,217,182,1) 50%, rgba(0,212,255,1) 50%);
+
+display: flex;
+color: tomato;
+    
+}
+header img{
+        width: 5rem;
+        margin: 1rem 2rem;
+ 
+}
+
+.header-span{
+    font-size: 4.4rem;
+    /* padding-bottom: 10px; */
+}
